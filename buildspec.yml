@@ -1,0 +1,23 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo not applicable
+artifacts:
+  files:
+    - apply.html
+    - css/*
+    - faq.html
+    - favicon.ico
+    - fonts/*
+    - images/*
+    - index.html
+    - investors.html
+    - js/*
+    - register.html
+    - ride.html
+    - robots.txt
+    - signin.html
+    - unicorns.html
+    - verify.html
