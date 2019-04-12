@@ -9,7 +9,6 @@ artifacts:
     - apply.html
     - faq.html
     - favicon.ico
-    - images/*
     - index.html
     - investors.html
     - js/*
