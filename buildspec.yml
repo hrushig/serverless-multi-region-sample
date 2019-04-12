@@ -7,10 +7,8 @@ phases:
 artifacts:
   files:
     - apply.html
-    - css/*
     - faq.html
     - favicon.ico
-    - fonts/*
     - images/*
     - index.html
     - investors.html
